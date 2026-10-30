@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Sosyal Medya Post Otomasyonu
+# ⚙️ Sosyal Medya Post Otomasyonu
 
 **Otomasyon**
 
